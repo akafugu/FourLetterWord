@@ -1,0 +1,4 @@
+FourLetterWord
+==============
+
+FourLetterWord generator library
