@@ -1,4 +1,5 @@
 ARDUINO FOUR LETTER WORD LIBRARY
+================================
 
 Four Letter Word generator based on an associative word dictionary.
 
